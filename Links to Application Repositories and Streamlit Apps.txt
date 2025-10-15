@@ -1,0 +1,5 @@
+Application Repository: https://github.com/rydrbot/Exit_Exam_App
+Bonus Application Repository: https://github.com/rydrbot/Exit_Exam_App_Bonus
+
+App Streamlit link: https://exitexamapp-6sidifzzioptxjbxdvkjn8.streamlit.app/
+Bonus App Streamlit link: https://exitexamappbonus-kspxbogu9ugfurjzw38l8z.streamlit.app/
